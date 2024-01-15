@@ -1,0 +1,9 @@
+setup.py
+not_defteri/__init__.py
+not_defteri/kullanici.py
+not_defteri/notlar.py
+not_defteri.egg-info/PKG-INFO
+not_defteri.egg-info/SOURCES.txt
+not_defteri.egg-info/dependency_links.txt
+not_defteri.egg-info/not-zip-safe
+not_defteri.egg-info/top_level.txt
